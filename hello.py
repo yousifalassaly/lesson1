@@ -1,3 +1,5 @@
 print("Hello, Git!")
 print("hi")
 print("this is an edit")
+print("Hello from VS Code!")
+print("This version was edited locally")
