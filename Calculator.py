@@ -25,3 +25,5 @@ def divide(a, b):
 
 def power(a, b):
     return a ** b
+
+# Calculator - Updated from GitHub Web Interface
