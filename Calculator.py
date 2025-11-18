@@ -38,3 +38,9 @@ if __name__ == "__main__":
     print(f"5 + 3 = {add(5, 3)}")
     print(f"10 - 4 = {subtract(10, 4)}")
     
+    
+def cube(a):
+    """Return the cube of a number"""
+    return a ** 3
+
+print(f"3 cubed = {cube(3)}")
