@@ -1,3 +1,5 @@
 print("Hello, Git!")
 print("hi")
 print("this is an edit")
+print("Greetings from GitHub!")
+print("This version was edited on the web")
