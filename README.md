@@ -7,3 +7,5 @@ This is a practice repository for learning Git.
 - VS Code provides a visual interface for Git operations
 
 adding a test run
+
+Dan Hricko making a commit.
